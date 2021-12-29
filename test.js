@@ -1,1 +1,1 @@
-console.log("집 가고 싶어요 ㅠㅠ");
+console.log("welcome");
